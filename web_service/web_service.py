@@ -20,7 +20,7 @@ HTML = """
 </head>
 <body>
     <h1>Mikro Hizmetli Selam!</h1>
-    <p>Adını ve şehrini yaz:</p>
+    <p>Adını ve Şehir yaz:</p>
     <form method="POST">
         <input type="text" name="isim" placeholder="Adını yaz" required>
         <input type="text" name="şehir" placeholder="Şehir yaz" required>
